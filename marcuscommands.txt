@@ -1,0 +1,28 @@
+<h5>git tag</h5>
+<p>List all tags in the repository. Adding a tag name after this command creates a new tag.</p>
+<h5>git tag -a</h5>
+<p>Create an annotated tag, including a message.</p>
+<h5>git tag -d</h5>
+<p>Delete a tag.</p>
+<h5>git clone --depth 1</h5>
+<p>Clone a repository with only the latest commit history, ignoring older commits.</p>
+<h5>git stash</h5>
+<p>Stash changes in the working directory to be applied later.</p>
+<h5>git stash list</h5>
+<p>List all stashed changes.</p>
+<h5>git stash apply</h5>
+<p>Apply the most recent stash to the working directory.</p>
+<h5>git stash pop</h5>
+<p>Apply the most recent stash and remove it from the stash list.</p>
+<h5>git cherry-pick</h5>
+<p>Apply the changes introduced by some existing commits.</p>
+<h5>git rebase</h5>
+<p>Reapply commits on top of another base tip.</p>
+<h5>git remote prune</h5>
+<p>Remove remote-tracking branches that no longer exist on the remote repository.</p>
+<h5>git clean -n</h5>
+<p>Show which files would be removed by a clean operation.</p>
+<h5>git bisect</h5>
+<p>Use binary search to find the commit that introduced a bug.</p>
+<h5>git reflog</h5>
+<p>Show a log of changes to the repository's HEAD.</p>
